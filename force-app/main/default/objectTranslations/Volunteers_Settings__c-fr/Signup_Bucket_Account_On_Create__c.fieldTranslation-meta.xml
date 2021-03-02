@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Le nom du Compte a utiliser pour créer des nouveaux Contacts pendant l&apos;enregistrement. Si vous utilisez le Non Profit Starter Pack &apos;modèle un-à-un&apos;, laisser vide. Si vous utilisez le &apos;modèle sceau&apos;, mettez le nom du compte; normallement &apos;Individual&apos;.</help>
+    <label>Inscrire le Compte Globale sur Création</label>
+    <name>Signup_Bucket_Account_On_Create__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Une liste séparée par des &apos;;&apos; de champs emails additionnels pour essayer de les relier à un contact existant. Note: ces champs sont déclarés avec leur nom complet de développeur, incluant le &apos;namespace prefix&apos;. Les emails du &apos;npsp&apos; sont auto. utilisés.</help>
+    <label>Champs d&apos;email de match de contact</label>
+    <name>Contact_Match_Email_Fields__c</name>
+</CustomFieldTranslation>
