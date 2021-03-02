@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IlluminatedCloudSettings">
+    <option name="connections">
+      <list>
+        <IlluminatedCloudConnection>
+          <option name="connectionName" value="cUnite_V4SF" />
+          <option name="connectionType" value="OAUTH" />
+          <option name="defaultModuleName" value="Volunteers-for-Salesforce" />
+          <option name="defaultOfficialNamespace" value="GW_Volunteers" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/cUnite_V4SF/OfflineSymbolTable.zip" />
+        </IlluminatedCloudConnection>
+      </list>
+    </option>
+  </component>
+</project>
